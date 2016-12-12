@@ -22,12 +22,12 @@ after select register database and inside this make one table named "users" and 
 
 after in this table you can see many column and row fill this column as follow:
 
-name          type      size
-___________________________________
+name          type      size accroding to this
+
 username     text       15
 password     varchar    15
 email        varchar    20
-trn_date     date       -
+trn_date     date       
 
 now save this table....
 here we gooooooooooooo enjoy this service 
