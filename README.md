@@ -1,5 +1,5 @@
 # secmsg
-destroy your message after particular time
+destroy your message after particular time or burn after reading...
 
 first download zip file and for local test copy this file to
 (if you are using xampp server...)
