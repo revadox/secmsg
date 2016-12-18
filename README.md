@@ -35,5 +35,6 @@ here we gooooooooooooo enjoy this service
 special thanks to https://github.com/sebsauvage for his zerobin project
 :)))
 
-if any query mail me at vdbazinga79@gmail.com
+if any query mail me at vdbazinga79@gmail.com\
+enjoy this service
 
