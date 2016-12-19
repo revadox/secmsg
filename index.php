@@ -26,7 +26,7 @@
 			header("Location:1.php"); 
             }else{
 				echo "<div class='res'>
-				<center><h3>Username/Password is incorrect!!!</h3><br/>Click here to <a href='index.php'><h3>Login</h3></a></center></div>";
+				<center><h3>Username/Password is incorrect!!! try again..</h3><br/>Click here to <a href='index.php'><h3>Login</h3></a></center></div>";
 				}
     }else{
 ?>
