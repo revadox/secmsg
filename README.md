@@ -12,7 +12,7 @@ C:\xampp\htdocs
 
 first, you have to make one database and table in sql server 
 
-(if you are using xampp server and this for GUI interface )
+(if you are using xampp server and this is  for GUI interface )
 go to web browser and in url box type:
 http://localhost/phpmyadmin/
 
